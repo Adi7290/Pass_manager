@@ -1,2 +1,1 @@
-# Pass_manager
-Pass_Manager with python
+IN this repository i am trying my hands on with a password manager
